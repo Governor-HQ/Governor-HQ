@@ -50,8 +50,7 @@ cybersecurity fundamentals
       <br><br>
       <b>Stack:</b> Next.js 15 · Supabase · Paystack
       <br>
-      <a href="https://alibaba-logistics.netlify.app">Live site</a> ·
-      <a href="#">GitHub (ADD_LINK)</a>
+      <a href="https://alibaba-logistics.netlify.app">Live site</a>
     </td>
   </tr>
 </table>
