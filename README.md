@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+of+MyClassTutor%2C+Govito+AI+%26+Alibaba+Logistics;Cybersecurity+Learner+%40+Tech4Youth+Cohort+1;Class+Representative%2C+Tech4Youth+Cybersecurity+Track;Documenting+the+Build+in+Public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+of+Alibaba+Logistics;Cybersecurity+Practitioner;Class+Representative%2C+Tech4Youth+Cybersecurity+Track;Documenting+the+Build+in+Public" alt="Typing SVG" />
 </p>
 
 <br>
 
-Full-stack developer building real products in public, currently deep in
-cybersecurity fundamentals. I write the code, ship it, and take the
-practical labs seriously enough to break things and fix them properly.
+Full-stack developer building real products in public, and a cybersecurity
+practitioner developing hands-on skills through the Tech4Youth programme. I
+write the code, ship it, and take the practical labs seriously enough to
+break things and fix them properly.
 
 ## About Me
 
@@ -42,7 +43,7 @@ cybersecurity fundamentals
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚗 Alibaba Logistics</h3>
       Live Nigerian transport booking platform (car rental, bus, charter),
       built and used for real trips. Built with a co-founder.
@@ -52,43 +53,12 @@ cybersecurity fundamentals
       <a href="https://alibaba-logistics.netlify.app">Live site</a> ·
       <a href="#">GitHub (ADD_LINK)</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Govito AI</h3>
-      AI platform integrated with MyClassTutor through a documented API
-      contract.
-      <br><br>
-      <b>Stack:</b> Next.js 14 · Supabase · Groq · Tavily
-      <br>
-      <a href="https://govitoai.vercel.app">Live site</a> ·
-      <a href="#">GitHub (ADD_LINK)</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 MyClassTutor</h3>
-      Campus academic platform for study guides, past questions and
-      textbook purchases. All six build phases are live.
-      <br><br>
-      <b>Stack:</b> Next.js (API-only backend) · HTML/CSS/JS · Supabase
-      Postgres
-      <br>
-      <a href="#">Live site (ADD_LINK)</a> ·
-      <a href="#">GitHub (ADD_LINK)</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 SkillForge</h3>
-      Online course/learning marketplace. Backend complete, frontend in
-      progress.
-      <br><br>
-      <b>Stack:</b> HTML/CSS/JS · Node/Express · Postgres/Supabase · JWT
-      <br>
-      <a href="https://github.com/Governor-HQ/skillforge">GitHub</a>
-      (private)
-    </td>
   </tr>
 </table>
 
-## 🛡️ Cybersecurity — Currently Learning
+<p align="center"><sub>More projects get added here once they're live and stable, not before.</sub></p>
+
+## 🛡️ Cybersecurity — Hands-On Practice
 
 Part of the **Tech4Youth Advanced ICT Skills Training Programme**
 (Cybersecurity track), hands-on with:
@@ -121,7 +91,7 @@ write down what I learned, than wait until it's perfect.
 
 [![X](https://img.shields.io/badge/X-@GovernorHQ__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GovernorHQ_)
 [![Substack](https://img.shields.io/badge/Substack-Read-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://govito001.substack.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-chiemerie-1aaa42225/)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okennwaemex2@gmail.com)
 
 <p align="center"><sub>Building in public, one commit at a time.</sub></p>
